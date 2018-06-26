@@ -1,6 +1,11 @@
 # RekognitionWPython
-A simple test of Rekognition AWS function with Python
-mplementation Aspects:
+A simple test of Rekognition AWS function with Python, as of first version it only detects the mood giving an image filename and bucket in S3 that is specified in mood.py 
+
+Following Steps:
+Add picture location functions
+
+
+Implementation Aspects:
 
 • Define API
 Implementation is done using Boto 3.
